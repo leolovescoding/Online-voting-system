@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="candGrad" x1="200" y1="50" x2="200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <path d="M120 320H280V240L240 200V120H160V200L120 240V320Z" stroke="url(#candGrad)" stroke-width="2" fill="white" fill-opacity="0.05"/>
+  <path d="M200 80V120M160 100L240 100" stroke="url(#candGrad)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 280L180 280M220 280L250 280" stroke="url(#candGrad)" stroke-width="5" stroke-linecap="round"/>
+</svg>
